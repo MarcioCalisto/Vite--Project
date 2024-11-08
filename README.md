@@ -19,13 +19,13 @@ Este é um projeto de template criado com [Vite](https://vitejs.dev/), que serve
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/vite-project.git
+    git clone https://github.com/ClxtMf/Vite-Project.git
     ```
 
 2. Navegue para o diretório do projeto:
 
     ```bash
-    cd vite-project
+    cd Vite-Project
     ```
 
 3. Instale as dependências:
