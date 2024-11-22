@@ -4,19 +4,19 @@ import './App.css'
 function App() {
   const [dado, setDado] = useState({
     nome: "Márcio",
-    especie: "Puto Belga",
-    genero: "delu",
+    especie: "Humano",
+    genero: "M",
   })
 
   const [dadosAPI, setDadosAPI] = useState([
     dado, {
       nome: "Jubileu",
-      especie: "Homosexuel",
-      genero: "Elu/Omo"
+      especie: "Humano",
+      genero: "M"
     }, {
-      nome: "Picapau",
-      especie: "Homosapies",
-      genero: "Mata alta"
+      nome: "Dani",
+      especie: "Humano",
+      genero: "M"
     }
   ])
 
